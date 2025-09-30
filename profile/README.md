@@ -58,7 +58,7 @@ You can find more info and follow `raylib technologies` on:
 - 🎮 Itch.io store:  [itch.io](https://raylibtech.itch.io/) 
 - 💻 Steam store: [Steam](https://store.steampowered.com/developer/raylibtech)
 - 🐦 Follow on X: ([@raylibtech](https://x.com/raylibtech))
-- 💼 Follow on LinkedIn: [raylibtech](https://www.linkedin.com/in/raylibtech)
+- 💼 Follow on LinkedIn: [raylibtech](https://www.linkedin.com/company/raylibtech)
 - 📧 Questions? Drop a mail: ray@raylibtech.com
 
 
